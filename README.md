@@ -10,3 +10,6 @@
 (![Screenshoot](P1_S1.png))
 
 Menggunakan Vercel sebagai layanan deployment untuk aplikasi web, termasuk pengaturan awal dan proses deploy
+
+## Soal 2
+Menginstal paket @vercel/postgres dan menyimpannya sebagai dependensi dalam file package.json proyek
